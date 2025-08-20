@@ -1,3 +1,3 @@
 # Ne
 
-!(Ne)[.repo/ne.png]
+![Ne](.repo/ne.png)
